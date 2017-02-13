@@ -1,5 +1,5 @@
 {
-    "name":         "daijulong/excelwriter",
+    "name":         "daijulong/excel-writer",
     "description":  "更简单地使用PHPExcel",
     "keywords": [
             "phpexcel",
