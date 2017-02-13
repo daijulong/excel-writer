@@ -1,0 +1,38 @@
+{
+    "name":         "daijulong/excelwriter",
+    "description":  "PHP 5.x polyfill for random_bytes() and random_int() from PHP 7",
+    "keywords": [
+            "phpexcel",
+            "excel",
+            "xls"
+        ],
+    "license":      "LGPL",
+    "type":         "library",
+    "authors": [
+            {
+                "name":     "daijulong",
+                "email":    "daijulong@gmail.com",
+                "homepage": "http://www.daijulong.com"
+            }
+        ],
+    "support": {
+        "issues":   "https://github.com/daijulong/excel_writer/issues",
+        "email":    "daijulong@gmail.com",
+        "source":   "https://github.com/daijulong/excel_writer"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "phpoffice/phpexcel": "1.8.1"
+    },
+    "require-dev": {
+
+    },
+    "suggest": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "ExcelWriter\\": "src\\"
+        }
+    }
+}
