@@ -79,7 +79,7 @@ class Excel
 
 
     /**
-     * 生成并保存文件
+     * 生成并下载文件
      *
      * @access public
      * @param string $name 文件名，不包括路径与扩展名，扩展名将自动添加
