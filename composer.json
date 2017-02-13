@@ -1,6 +1,6 @@
 {
     "name":         "daijulong/excelwriter",
-    "description":  "PHP 5.x polyfill for random_bytes() and random_int() from PHP 7",
+    "description":  "更简单地使用PHPExcel",
     "keywords": [
             "phpexcel",
             "excel",
